@@ -121,14 +121,9 @@ h2 {
 	text-align: center;
 }
 
-.download-link p a, .download-link p a:link, .download-link p a:visited, .download-link p a:active {
+.download-link p a, .download-link p a:link, .download-link p a:visited, .download-link p a:hover, .download-link p a:active {
 	color: #FFF;
-	text-decoration: none;
 	padding-left: 4px;
-}
-
-.download-link p a:hover {
-	text-decoration: underline;
 }
 
 .download-btn {
@@ -275,6 +270,7 @@ h2 {
 		letter-spacing: 2px;
 		line-height: 20px;
 		opacity: 0.8;
+		font-weight: normal;
 	}
 
 	#footer {
