@@ -27,7 +27,7 @@
 	box-sizing: border-box;
 }
 
-.top-logo {
+.top-logo a img{
 	display: block;
 	height: 40px;
 	width: 200px;
