@@ -10,6 +10,7 @@
 
     <title>他山石 - 打磨的力量</title>
     <link rel="stylesheet" type="text/css" href="./style.css">
+    <script type="text/javascript" src="./script.js"></script>
 
 </head>
 
@@ -18,12 +19,12 @@
 	<!-- Modal -->
 	<div id="modal">
 		<div class="close">
-			<a href="#" onclick="document.getElementById('modal').style.display='none';document.getElementById('video').pause();">
+			<a href="#" onclick="closeModal()">
 				<img src="./img/close.svg">
 			</a>
 		</div>
 		<div class="video-box">
-			<video width="360" height="600" loop id="video">
+			<video width="100%" height="100%" loop id="video">
 				<source src="./img/video.mp4" type="video/mp4">
 			</video>
 		</div>
@@ -41,7 +42,7 @@
 	<section id="main">
 		<div class="banner-container">
 			<div class="play">
-				<a href="#" id="play-btn" onclick="document.getElementById('modal').style.display='flex';document.getElementById('video').currentTime = 0;document.getElementById('video').play();">
+				<a href="#" id="play-btn" onclick="playVideo()">
 					<img src="./img/play.svg" alt="play">
 				</a>
 			</div>
@@ -57,10 +58,13 @@
 			<div class="qrcode">
 				<img src="./img/qrcode.png" alt="qrcode">
 			</div>
+			<div class="download-btn">
+				<a href="#" id="downbtn">立即下载</a>
+			</div>
 			<div class="download-link">
-				<p>用手机扫码下载</p>
-				<p>或<a href="http://www.qq.com">点此下载到电脑</a></p>
-				<p>· 支持 Android 5.0 及以上</p>
+				<p class="tips-pc">用手机扫码下载</p>
+				<p class="tips-pc">或<a href="http://www.qq.com">点此下载到电脑</a></p>
+				<p>支持 Android 5.0 及以上</p>
 			</div>
 		</div>
 	</section>
