@@ -1,7 +1,6 @@
 function playVideo() {
 		document.getElementById('modal').style.display='flex';
 		var video = document.getElementById('video');
-		video.currentTime = 0;
 		video.play();
 }
 
