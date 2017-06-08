@@ -1,0 +1,191 @@
+/*!
+ * Copyright 2017 他山石
+ */
+
+ html {
+ 	width: 100%;
+ 	height: 100%;
+ }
+
+ body {
+	width: 100%;
+	height: 100%;
+	font-family: 
+    /* 英文 */
+    -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, 
+    /* 中文 */
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+    margin: 0;
+ }
+
+/* Header */
+#header {
+	width: 100%;
+	height: 80px;
+	background-color: #FFF;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.top-logo {
+	display: block;
+	height: 40px;
+	width: 200px;
+}
+
+
+/* Main */
+#main {
+	width: 100%;
+	height: 1200px;
+	background-image: -webkit-linear-gradient(89deg, #005EE0 0%, #00CAC1 100%);
+	background-image: -o-linear-gradient(89deg, #005EE0 0%, #00CAC1 100%);
+	background-image: linear-gradient(179deg, #005EE0 0%, #00CAC1 100%);
+}
+
+.play {
+	position: absolute;
+	top: 404px;
+	left: 50%;
+	margin-left: -50px;
+	display:block;
+	width: 100px;
+	height: 100px;
+	z-index: 1;
+	opacity: 0.8;
+	transition: opacity 1s;
+}
+
+.play:hover {
+	opacity: 1;
+}
+
+.banner-mask {
+	position: absolute;
+	width: 100%;
+	height: 850px;
+	background-image: -webkit-linear-gradient(rgba(0,0,0,0.50) 0%, rgba(0,0,0,0.00) 100%);
+	background-image: -o-linear-gradient(rgba(0,0,0,0.50) 0%, rgba(0,0,0,0.00) 100%);
+	background-image: linear-gradient(rgba(0,0,0,0.50) 0%, rgba(0,0,0,0.00) 100%);
+}
+
+.banner {
+
+}
+
+.banner img {
+	display: block;
+	width: 460px;
+	margin: 0 auto;
+	padding-top: 120px;
+	padding-bottom: 60px;
+}
+
+h2 {
+	margin: 0 auto;
+	font-size: 45px;
+	color: #FFFFFF;
+	letter-spacing: 8px;
+	line-height: 68px;
+	width: 380px;
+	font-weight: 100;
+	text-align: center;
+}
+
+.download-container {
+	width: 100%;
+	padding-top: 40px;
+}
+
+.qrcode {
+	width: 140px;
+	height: 140px;
+	margin: 0 auto;
+	background-color: #FFF;
+	box-shadow: 0 15px 30px 0 rgba(0,96,111,0.30);
+}
+
+.qrcode img {
+	width: 116px;
+	height: 116px;
+	padding: 12px;
+}
+
+.download-link {
+	font-size: 16px;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+	line-height: 28px;
+	margin-top: 20px;
+	font-weight: 100;
+}
+
+.download-link p {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.download-link p a, .download-link p a:link, .download-link p a:visited, .download-link p a:active {
+	color: #FFF;
+	text-decoration: none;
+	padding-left: 4px;
+}
+
+.download-link p a:hover {
+	text-decoration: underline;
+}
+
+/* Video */
+#modal {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: 2;
+	background-color: rgba(0,0,0,0.6);
+	align-items: center;
+	justify-content: center;
+	display: none;
+}
+
+.video-box {
+	width: 374px;
+	height: 680px;
+	background: url(./img/device.svg) no-repeat;
+	box-shadow: 0 24px 48px 0 rgba(0,96,111,0.30);
+}
+
+#video {
+	margin: 26px 7px 0 7px;
+}
+
+.close {
+	position: fixed;
+    right: 60px;
+    top: 140px;
+    opacity: 0.6;
+}
+
+.close:hover {
+	opacity: 1;
+}
+
+/* Footer */
+#footer {
+	width: 100%;
+	background-color: #FFF;
+	height: 120px;
+}
+
+.footer-text {
+	padding: 32px 0;
+	font-size: 14px;
+	line-height: 28px;
+	color: #545454;
+	letter-spacing: 0.5px;
+	line-height: 28px;
+	text-align: center;
+}
+
+.footer-text p {
+	margin: 0 auto;
+}

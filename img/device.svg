@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="374" height="680" viewBox="0 0 374 680">
+  <defs>
+    <rect id="a" width="64" height="28" x="155" y="638" rx="14"/>
+    <rect id="b" width="360" height="600" x="7" y="26"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#F0F0F0" d="M12,0 L362,0 L362,-1.77635684e-15 C368.627417,2.64378502e-14 374,5.372583 374,12 L374,668 L374,668 C374,674.627417 368.627417,680 362,680 L12,680 L12,680 C5.372583,680 6.08417196e-14,674.627417 -1.77635684e-15,668 L0,12 L0,12 C-8.11624501e-16,5.372583 5.372583,-5.58920087e-16 12,-1.77635684e-15 Z"/>
+    <rect width="6" height="5.999" x="151.753" y="10" fill="#D8D8D8" opacity=".7" rx="2.999"/>
+    <rect width="56" height="6" x="163" y="10" fill="#D8D8D8" opacity=".7" rx="3"/>
+    <g opacity=".5">
+      <use fill="#F6F6F6" xlink:href="#a"/>
+      <rect width="62.068" height="26.068" x="155.966" y="638.966" stroke="#979797" stroke-width="1.932" rx="13.034"/>
+    </g>
+    <use fill="#FFFFFF" xlink:href="#b"/>
+    <rect width="361" height="601" x="6.5" y="25.5" stroke="#CECECE"/>
+  </g>
+</svg>

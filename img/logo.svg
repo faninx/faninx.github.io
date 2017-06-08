@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
+  <defs>
+    <linearGradient id="a" x1="100%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#00A5FF"/>
+      <stop offset="100%" stop-color="#15ACEB"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="c" x1="89.42%" x2="0%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#00DEFC"/>
+      <stop offset="100%" stop-color="#00D6FF"/>
+    </linearGradient>
+    <linearGradient id="d" x1="30.051%" x2="59.744%" y1="74.465%" y2="42.902%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity=".3"/>
+    </linearGradient>
+    <linearGradient id="e" x1="50%" x2="19.915%" y1="65.19%" y2="30.029%">
+      <stop offset="0%" stop-color="#00D3FF"/>
+      <stop offset="100%" stop-color="#08ABFC"/>
+    </linearGradient>
+    <linearGradient id="f" x1="26.586%" x2="59.264%" y1="58.075%" y2="29.945%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="g" x1="50%" x2="1.502%" y1="74.694%" y2="1.96%">
+      <stop offset="0%" stop-color="#44F8FF"/>
+      <stop offset="100%" stop-color="#25BDFF"/>
+    </linearGradient>
+    <linearGradient id="h" x1="100%" y1="3.663%" y2="100%">
+      <stop offset="0%" stop-color="#09BFFB"/>
+      <stop offset="100%" stop-color="#00D5FF"/>
+    </linearGradient>
+    <linearGradient id="i" x1="-13.939%" x2="68.508%" y1="11.66%" y2="73.45%">
+      <stop offset="0%" stop-color="#00ECFF"/>
+      <stop offset="100%" stop-color="#36FFFA"/>
+    </linearGradient>
+    <linearGradient id="j" x1="46.513%" x2="71.049%" y1="57.865%" y2="22.995%">
+      <stop offset="0%" stop-color="#00CFFF"/>
+      <stop offset="100%" stop-color="#0771FA"/>
+    </linearGradient>
+    <linearGradient id="k" x1="71.334%" x2="38.516%" y1="22.188%" y2="54.767%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="l" x1="100%" y1="100%" y2="3.023%">
+      <stop offset="0%" stop-color="#00C9FF"/>
+      <stop offset="100%" stop-color="#0080FF"/>
+    </linearGradient>
+    <linearGradient id="m" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#45FCF6"/>
+      <stop offset="100%" stop-color="#00CEFB"/>
+    </linearGradient>
+    <linearGradient id="n" x1="50%" y1="26.179%" y2="100%">
+      <stop offset="0%" stop-color="#D8FFF9"/>
+      <stop offset="100%" stop-color="#A4F6FF"/>
+    </linearGradient>
+    <linearGradient id="o" x1="70.709%" x2="45.122%" y1="76.401%" y2="39.002%">
+      <stop offset="0%" stop-color="#57FFF7"/>
+      <stop offset="100%" stop-color="#33F1FF"/>
+    </linearGradient>
+    <linearGradient id="p" x1="72.894%" x2="44.725%" y1="71.815%" y2="41.119%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="q" x1="151.234%" x2="0%" y1="69.799%" y2="44.208%">
+      <stop offset="0%" stop-color="#00DDFF"/>
+      <stop offset="100%" stop-color="#00C3FF"/>
+    </linearGradient>
+    <linearGradient id="r" x1="100%" x2="0%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity=".2"/>
+    </linearGradient>
+    <filter id="s" width="263.9%" height="263.9%" x="-82%" y="-82%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.391"/>
+    </filter>
+    <filter id="t" width="196.2%" height="196.2%" x="-48.1%" y="-48.1%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.202"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4)">
+      <polygon fill="url(#a)" points="25 10 25 30 20 26.024 20 13.976"/>
+      <polygon fill="url(#b)" points="25 10 25 30 20 26.024 20 13.976" style="mix-blend-mode:overlay"/>
+      <polygon fill="url(#c)" points="25 10.062 20.037 14.063 20.037 13.985 12.518 7.848 12.503 7.859 12.5 .014 12.518 0"/>
+      <polygon fill="url(#d)" points="25 10.062 20.037 14.063 20.037 13.985 12.518 7.848 12.503 7.859 12.5 .014 12.518 0" style="mix-blend-mode:overlay"/>
+      <polygon fill="url(#e)" points="25 29.938 12.503 40 12.5 32.149 20.032 26.014 20.032 25.938"/>
+      <polygon fill="url(#f)" points="25 29.938 12.503 40 12.5 32.149 20.032 26.014 20.032 25.938" style="mix-blend-mode:overlay"/>
+      <polygon fill="url(#g)" points="20 26.017 20 26.093 12.509 32.188 12.505 32.184 12.5 20.007 12.51 20"/>
+      <polygon fill="url(#h)" points="20 14.063 20 25.938 12.5 20.001"/>
+      <polygon fill="url(#i)" points="20 13.906 20 13.982 12.515 20 12.505 19.992 12.5 7.823 12.514 7.813"/>
+      <polygon fill="url(#j)" points="12.497 32.149 12.5 40 0 29.938 4.969 25.938 4.969 26.013"/>
+      <polygon fill="url(#k)" points="12.497 32.149 12.5 40 0 29.938 4.969 25.938 4.969 26.013" style="mix-blend-mode:overlay"/>
+      <polygon fill="url(#l)" points="12.495 20 12.5 32.188 5 26.091 5 26.016"/>
+      <polygon fill="url(#m)" points="12.5 19.993 12.5 20.007 5 25.938 5 14.063"/>
+      <polygon fill="url(#n)" points="12.495 7.813 12.5 20 5 13.98 5 13.904"/>
+      <polygon fill="url(#o)" points="12.497 0 12.5 7.853 4.975 13.986 4.975 14.063 0 10.059"/>
+      <polygon fill="url(#p)" points="12.497 0 12.5 7.853 4.975 13.986 4.975 14.063 0 10.059" style="mix-blend-mode:overlay"/>
+      <polygon fill="url(#q)" points="5 13.975 5 26.025 0 30 0 10"/>
+      <polygon fill="url(#r)" points="5 13.975 5 26.025 0 30 0 10" style="mix-blend-mode:overlay"/>
+      <circle cx="16.25" cy="27.5" r="4.375" fill="#FFFFFF" filter="url(#s)" style="mix-blend-mode:soft-light"/>
+      <circle cx="8.75" cy="10" r="3.75" fill="#FFFFFF" filter="url(#t)" style="mix-blend-mode:soft-light"/>
+    </g>
+    <text fill="#343434" font-family="PingFangSC-Regular, PingFang SC" font-size="18" letter-spacing="3.6">
+      <tspan x="44.1" y="27">他山石</tspan>
+    </text>
+    <text fill="#343434" font-family="PingFangSC-Regular, PingFang SC" font-size="14" letter-spacing="3" opacity=".5">
+      <tspan x="117" y="28">打磨的力</tspan> <tspan x="185" y="28">量</tspan>
+    </text>
+  </g>
+</svg>
