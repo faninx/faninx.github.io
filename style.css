@@ -193,6 +193,11 @@ h2 {
 	margin: 0 auto;
 }
 
+.footer-text p a {
+    color: #3896EE;
+    text-decoration: none;
+}
+
 /* Mobile */
 
 @media (max-width: 600px) {
