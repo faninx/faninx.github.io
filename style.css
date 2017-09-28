@@ -198,6 +198,22 @@ h2 {
     text-decoration: none;
 }
 
+.fb-box {
+	widows: 640px;
+	height: 90%;
+	text-align: center;
+	margin: auto;
+	padding: 40px 0;
+	background: #FFFFFF;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.10), 0 6px 12px 0 rgba(0,0,0,0.10);
+	border-radius: 4px;
+}
+
+.feedback {
+	width: 640px;
+	height: 100%;
+}
+
 /* Mobile */
 
 @media (max-width: 600px) {
