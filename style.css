@@ -198,10 +198,12 @@ h2 {
     text-decoration: none;
 }
 
+/* Feedback Page */
+
 .fb-box {
 	widows: 100%;
 	height: 100%;
-	background: #FAFAFA;
+	background: #F5F6F7;
 	text-align: center;
 	margin: auto;
 }
@@ -222,7 +224,7 @@ h2 {
 
 /* Mobile */
 
-@media (max-width: 600px) {
+@media (max-width: 640px) {
 	/* Header */
 	#header {
 		height: 60px;
@@ -332,5 +334,24 @@ h2 {
 		height: 40px;
 	}
 
+	/* Feedback Page */
+	.fb-box {
+		widows: 100%;
+		height: 100%;
+		background: #F5F6F7;
+		text-align: center;
+		margin: auto;
+	}
+	
+	.feedback {
+		border: none;
+		box-shadow: none;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
 
 }
